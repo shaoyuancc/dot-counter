@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shao/Documents/DotCounter/saved_nets/dots_net.ckpt"
+all_model_checkpoint_paths: "/home/shao/Documents/DotCounter/saved_nets/dots_net.ckpt"
